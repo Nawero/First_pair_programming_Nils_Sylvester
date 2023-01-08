@@ -8,14 +8,6 @@ class Rectangle {
         this.width = width;
     }
 
-//    public double getLength() {
-//        return length;
-//    }
-//
-//    public void setLength(double length) {
-//        this.width = width;
-//    }
-
     public double getArea() {
         return length * width;
     }
